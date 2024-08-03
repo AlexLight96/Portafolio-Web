@@ -1276,7 +1276,7 @@ section,
 
 
 .parallax {
-  background-image: url('https://wallpapers.com/images/featured/universe-qs811igzbabl1m0o.jpg'); /* Cambia esto por la imagen deseada */
+  background-image: url('../img/universe.jpg'); /* Cambia esto por la imagen deseada */
   height: 500px; /* Ajusta la altura según tus necesidades */
   background-attachment: fixed;
   background-position: center;

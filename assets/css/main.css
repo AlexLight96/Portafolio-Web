@@ -1270,7 +1270,7 @@ section,
 
 
 .parallax {
-  background-image: url('../img/universe.jpg'); /* Cambia esto por la imagen deseada */
+  background-image: url('../img/universe.webp'); /* Cambia esto por la imagen deseada */
   height: 500px; /* Ajusta la altura según tus necesidades */
   background-attachment: fixed;
   background-position: center;
